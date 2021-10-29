@@ -1,4 +1,4 @@
 # BackgroungColorChanger
-A javascript based project of 15
+## 1 of 15
 
-![ScreenShot of the webpage]
+![ScreenShot of the webpage](https://github.com/consciousdeveloper/BackgroungColorChanger/blob/master/ss.png)
