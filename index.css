@@ -1,0 +1,46 @@
+*{
+    margin: auto;
+    padding: auto;
+    font-family: serif;
+   
+    text-align: center;
+    border-radius :5px;
+    text-transform:uppercase;
+    
+}
+
+body{
+
+    margin:  auto;
+    height: 100vh;
+    
+}
+.contain{
+    margin-top:40vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    
+    
+}
+.contain p{
+    margin-bottom:  50px;
+    width: 300px; color: white;
+    font-size:1.5rem;
+    padding:20px;
+    background-color: rgb(33, 33, 83);
+  
+
+}
+.contain span{
+    background-color: rgb(33, 33, 83);
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+a{
+    cursor: pointer;
+    padding: 10px 30px;
+    background-color: rgb(33, 33, 83);
+text-decoration: none;   color: white;
+    
+}
